@@ -35,9 +35,6 @@ The following tools are used for this project
             grant all privileges on database returnsdb to test;
 
 
-##### fastReturns postgres database population process
-
-In the following section, the DDL,DML commands for the Customers, Suppliers 
 
 
 
