@@ -3,7 +3,11 @@
 The following tools are used for this project
 
        Go SDK 1.10.3
+       Gorilla Mux 
+       go-pg           // Go Postgress Library 
        Postgres
+       Docker 
+       Ubuntu 20.04
        
  #### Setting up Envoirment
  
