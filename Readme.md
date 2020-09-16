@@ -1,4 +1,6 @@
-## Fast Returns
+## Returns Logistics Operations
+
+The project has implemented a rest api for a returns management system. it can be used by any logistics company, the api can store data in PostGreSQl database and packaged as a Docker container.
 
 The following tools are used for this project
 
